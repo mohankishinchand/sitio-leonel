@@ -174,8 +174,6 @@ footer{background:#0B1512;color:#93A099;padding:60px 0 30px;font-size:14px}
 .foot h4{color:var(--gold-soft);font-family:'Marcellus',serif;font-size:16px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:14px}
 .foot a{display:block;margin-bottom:8px;transition:.2s}
 .foot a:hover{color:var(--gold-soft)}
-.partners{display:flex;gap:18px;align-items:center;margin-top:14px}
-.partners img{height:44px;width:auto;filter:grayscale(1) brightness(1.6);opacity:.8}
 .copy{border-top:1px solid rgba(191,155,95,.2);margin-top:44px;padding-top:22px;text-align:center;font-size:13px;letter-spacing:.06em}
 
 /* WhatsApp flotante */
